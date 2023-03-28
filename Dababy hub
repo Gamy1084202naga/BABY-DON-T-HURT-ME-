@@ -1,0 +1,88 @@
+
+
+
+local Library = loadstring(game:HttpGet('https://raw.githubusercontent.com/romoneand/kavoui/main/NewMain'))() 
+
+
+
+--[[this local is very important it create very thing u did]]
+
+
+
+local Window = Library.CreateLib"dababy hub", "DarkTheme") --[[you can change theme to LightTheme or something else]]
+
+
+--[[this is to create the gui]]
+
+
+
+
+
+
+
+local Tab1 = Window:NewTab("monkey") 
+
+
+
+--[[this is page creating ]]
+
+
+
+
+local Tab1Section = Tab1:NewSection("DA SUSSY TEXT") 
+
+
+--[[This is starter of 1st page very important]]
+
+
+
+Tab1Section:NewButton("BUTTON NAME","pop it trading", function()
+
+
+
+--[[DA SCRIPT]]
+
+
+
+end)
+
+
+--[[THIS is button when click to Active the script]]
+
+
+local Tab2 = Window:NewTab("DA 2ND PAGE")
+
+
+
+
+--[[this is the 2nd page]]
+
+
+
+
+
+
+
+local Tab2Section = Tab2:NewSection("goofy ahh") 
+
+
+
+--[[This is starter of page very important]]
+
+
+Tab2Section:NewButton("2nd page button"BABY DON’T HURT ME"", function()
+
+--[[DA SCRIPT]]
+
+end)
+
+
+
+
+--[[this is 2nd page button just change Tab1Section to
+
+Tab2Section]]
+
+
+
+ 
